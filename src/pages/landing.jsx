@@ -87,7 +87,7 @@ function Landing() {
               top: '90%',
               left: '50%',
               transform: 'translateX(-50%)',
-              mt: { xs: 45, sm: 30, md: 25 },
+              mt: { xs: 45, sm: 30, md: 25 }
             }}
           >
             <Image />
@@ -138,7 +138,7 @@ function Landing() {
               justifyContent: 'center',
               alignItems: 'center',
               mt: 2,
-              padding: '16px',
+              padding: '0px',
               width: '100%',
               height: 'auto',
             }}

@@ -23,7 +23,7 @@ export default function CharacterCard() {
           justifyContent: "center",
           padding: { xs: 3, md: 3 },
           color: "white",
-          width: { xs: "80%", md: "50%" },
+          width: { xs: "90%", md: "50%" },
           marginTop: { lg: 18, xs: 10 },
           mb: { xs: 0, md: 0 },
           mr: { xs: 0, md: 6 },
@@ -32,7 +32,7 @@ export default function CharacterCard() {
       >
        <Box sx={{ position: "relative", 
         left:{sm: 0, md: 24 },
-        right:{xs: 70},
+        right:{xs: 55},
         top:{xs: 40, md: 0}
         }}>
         <a href="resume_bikshu.pdf"> <Button
