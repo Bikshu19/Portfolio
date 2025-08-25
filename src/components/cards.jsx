@@ -25,6 +25,11 @@ const cardData = [
     description:
       '“Secured second place in a collaborative coding competition alongside seniors.Appreciated for teamwork, technical contribution, and innovative problem-solving.”',
   },
+  {
+    title: '🎉 Participation In CodeSpark',
+    image: './4th.jpg',
+    description: "“Participated in Code Spark India 2025, a two-day national-level coding and innovation hackathon at KBN College, Vijayawada. Gained hands-on experience in problem-solving, programming, and collaborative innovation”",
+  }
 ];
 
 export default function ActionAreaCard() {
