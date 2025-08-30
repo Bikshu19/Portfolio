@@ -10,7 +10,7 @@ export default function Icon() {
     {
       icon: <LinkedInIcon sx={{ color: '#0A66C2' }} />,
       name: 'LinkedIn',
-      link: 'https://www.linkedin.com/in/t-bikshamaiah-5909b42b9',
+      link: 'https://www.linkedin.com/in/bikshamaiah-tulimelli/',
     },
     {
       icon: <EmailIcon sx={{ color: '#D14836' }} />,

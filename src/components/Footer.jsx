@@ -11,7 +11,7 @@ const Footer = () => {
         marginTop: '50px',
       }}
     >
-      <p style={{ margin: 0, fontSize: '20px' }}>Thank you for visiting my portfolio!</p>
+      <p style={{ margin: 0, fontSize: '15px' }}>All copy rights received © 2025 | Thank you for visiting my portfolio!</p>
     </footer>
   );
 };

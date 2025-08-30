@@ -29,6 +29,7 @@ function RoundedDownloadButton() {
         color:'white',
         backgroundColor: '#064232',
       }}
+      href='/bikshu-1.pdf'
     >
       Resume
     </Button>
